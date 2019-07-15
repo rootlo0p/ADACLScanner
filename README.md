@@ -1,7 +1,7 @@
 ﻿# AD ACL Scanner
 
 ## Current version
-**Version: 5.6.3**
+**Version: 5.6.3** (Modified by rootlo0p to automatically translate GUIDs when using CLI)
 
 **16 May,2019**
 
